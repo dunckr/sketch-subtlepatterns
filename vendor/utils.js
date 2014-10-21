@@ -25,6 +25,7 @@ function toString(response) {
  *
  * @param {Layer} layer
  * @param {Data} data
+ * @return {Fill}
  */
 function setImage(layer, data) {
     var image = NSImage.alloc().initWithData(data);
@@ -32,4 +33,26 @@ function setImage(layer, data) {
     fill.setFillType(4);
     fill.setPatternImage(image);
     fill.setPatternFillType(1);
+    return fill;
+}
+
+/**
+ * Random number between 0 and limit
+ *
+ * @param {Number} limit
+ * @return {Number}
+ */
+function random(limit) {
+    return Math.floor(Math.random() * limit) + 1;
+}
+
+/**
+ * Determine if Str ends with a suffix
+ *
+ * @param {String} str
+ * @param {String} suffix
+ * @return {Boolean}
+ */
+function endsWith(str, suffix) {
+    return str.indexOf(suffix, str.length - suffix.length) !== -1;
 }
