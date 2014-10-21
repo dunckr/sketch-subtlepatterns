@@ -15,11 +15,3 @@ function setImage(layer, data) {
     fill.setPatternImage(image);
     fill.setPatternFillType(1);
 }
-
-function setFillWithUrl(url) {
-    var loop = [selection objectEnumerator];
-    while (layer = [loop nextObject]) {
-        var data = findColorGradient(url);
-        setImage(layer, data);
-    }
-}
