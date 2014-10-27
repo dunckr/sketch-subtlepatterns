@@ -6,6 +6,8 @@ Import [Subtle Patterns](https://github.com/subtlepatterns/SubtlePatterns) as sh
 
 ##Usage
 
+![Using plugin](https://raw.githubusercontent.com/dunckr/sketch-subtlepatterns/master/assets/usage.gif)
+
 + Select Shapes
 + ```Plugins > Menu > sketch-subtlepatterns > random```
 + Wait for the image inserted as a fill
