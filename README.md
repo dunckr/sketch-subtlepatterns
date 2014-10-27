@@ -2,7 +2,7 @@
 
 Import [Subtle Patterns](https://github.com/subtlepatterns/SubtlePatterns) as shape fills in Sketch.
 
-![subtlepatterns](https://raw.githubusercontent.com/dunckr/sketch-subtlepatterns/master/assets/subtlepatterns.png)
+![subtlepatterns](https://raw.githubusercontent.com/dunckr/sketch-subtlepatterns/master/assets/example.png)
 
 ##Usage
 
