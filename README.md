@@ -27,6 +27,16 @@ The [official documentation](http://bohemiancoding.com/sketch/support/developer/
 + [Download](https://github.com/dunckr/sketch-subtlepatterns/archive/master.zip)
 + Unzip and copy into the Sketch plugins folder
 
+## Update
+
+```sh
+./update.sh
+```
+
+## Thanks
+
+A big thanks to the awesome [SubtlePatterns](http://subtlepatterns.com/).
+
 ## License
 
 MIT © [Duncan Beaton](http://dunckr.com)
