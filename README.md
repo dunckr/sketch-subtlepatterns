@@ -9,12 +9,12 @@ Import [Subtle Patterns](https://github.com/subtlepatterns/SubtlePatterns) as sh
 ![Using plugin](https://raw.githubusercontent.com/dunckr/sketch-subtlepatterns/master/assets/usage.gif)
 
 + Select Shapes
-+ ```Plugins > Menu > sketch-subtlepatterns > random```
-+ Wait for the image inserted as a fill
++ Run using ```Plugins > Menu > sketch-subtlepatterns > random```
++ Wait for the images to be inserted as a fill
 
 ## Installation
 
-Official documentation is [here](http://bohemiancoding.com/sketch/support/developer/01-introduction/01.html).
+The [official documentation](http://bohemiancoding.com/sketch/support/developer/01-introduction/01.html) explains how to install plugins in detail.
 
 ###Clone
 
@@ -24,8 +24,8 @@ Official documentation is [here](http://bohemiancoding.com/sketch/support/develo
 ###Download
 
 + Find Sketch Plugins folder using ```Plugins menu > Reveal Plugins Folder```
-+ Use ```Download ZIP``` button
-+ Unzip and put into Sketch plugins folder
++ [Download](https://github.com/dunckr/sketch-subtlepatterns/archive/master.zip)
++ Unzip and copy into the Sketch plugins folder
 
 ## License
 
