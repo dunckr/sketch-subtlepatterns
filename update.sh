@@ -4,4 +4,4 @@ rm -rf SubtlePatterns
 
 git clone https://github.com/subtlepatterns/SubtlePatterns
 
-rm SubtlePatterns/!(*.png|*.jpg)
+rm SubtlePatterns/{*.zip,*.php,*.html,*.md}
