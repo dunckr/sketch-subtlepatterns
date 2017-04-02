@@ -4,7 +4,7 @@ Import [Subtle Patterns](https://github.com/subtlepatterns/SubtlePatterns) as sh
 
 ![subtlepatterns](https://raw.githubusercontent.com/dunckr/sketch-subtlepatterns/master/assets/example.png)
 
-##Usage
+## Usage
 
 ![Using plugin](https://raw.githubusercontent.com/dunckr/sketch-subtlepatterns/master/assets/usage.gif)
 
@@ -16,12 +16,12 @@ Import [Subtle Patterns](https://github.com/subtlepatterns/SubtlePatterns) as sh
 
 The [official documentation](http://bohemiancoding.com/sketch/support/developer/01-introduction/01.html) explains how to install plugins in detail.
 
-###Clone
+### Clone
 
 + Find Sketch Plugins folder using ```Plugins menu > Reveal Plugins Folder```
 + e.g. ```git clone /Users/dunc/Library/Containers/com.bohemiancoding.sketch3/Data/Library/Application\ Support/com.bohemiancoding.sketch3/Plugins```
 
-###Download
+### Download
 
 + Find Sketch Plugins folder using ```Plugins menu > Reveal Plugins Folder```
 + [Download](https://github.com/dunckr/sketch-subtlepatterns/archive/master.zip)
